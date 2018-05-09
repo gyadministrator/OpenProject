@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">接活</string>
+    <string name="loading">正在加载</string>
+    <string name="project">输入你感兴趣的项目</string>
+    <string name="no_data">没有获取到数据</string>
+    <string name="reload_msg">没有获取到数据,重新加载试试。</string>
+    <string name="reload">重新加载</string>
+</resources>
